@@ -1,48 +1,81 @@
-# Hello website!
+# 🌌 Asia Lakay Hub
 
-This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
+**Afrofuturist Creative Technology + Crisis-Grade Development**
 
-_Last updated: 28 Feb 2023_
+_A living portfolio and mutual aid platform, built with Glitch, Cloudflare, and radical care._
 
-## What's in this project?
+[![Deploy with Cloudflare Pages](https://img.shields.io/badge/Deploy%20with-CF%20Pages-f38020?logo=cloudflare)](https://dash.cloudflare.com/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
+---
 
-← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
+## ✨ Features
 
-← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
+- **Low-Spoon Design**: ADHD-friendly navigation (voice notes, big buttons)
+- **Crisis Support Portal**: `/mutual-aid` page for urgent needs
+- **Afrofuturist Aesthetic**: Cosmic color palette (#00f0ff accents)
+- **100% Static Site**: No backend, no databases—just HTML/CSS/JS
 
-← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add using the code in the TODO.
+---
 
-Open each file and check out the comments (in gray) for more info.
+## 🛠️ Tech Stack
 
-## Try this next 🏗️
+- **Hosting**: [Cloudflare Pages](https://pages.cloudflare.com/)
+- **Tools**: Glitch (prototyping), CapCut (mobile edits), Ableton (sound)
+- **Accessibility**: WCAG 2.1 AA compliant, reduced-motion toggle
 
-Take a look in `TODO.md` for next steps you can try out in your new site!
+---
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+## 🌍 Live Projects
 
-## Ready to share your site?
+| Project                                                     | Description             | Tech Used              |
+| ----------------------------------------------------------- | ----------------------- | ---------------------- |
+| [Legacy & Code](https://legacy-and-code-roxbury.pages.dev/) | Community tech archive  | Glitch, Twilio         |
+| [The Memory Shard](https://the-memory-shard.pages.dev/)     | Interactive memorial    | p5.js, GPS             |
+| [Disaster-Proof Kit](https://creative-tech.pages.dev/)      | Free tools for creators | Markdown, Web3.storage |
 
-Add these meta tags for SEO and social sharing between your page `<head></head>` tags, changing the values for your site:
+---
 
+## 🚀 Deployment
+
+1. **Fork this repo**
+2. Deploy to Cloudflare Pages:
+   ```bash
+   git clone https://github.com/asiakay/asia-lakay-hub.git
+   cd asia-lakay-hub
+   npm install && npm run deploy
+   ```
+
+---
+
+## 💡 How to Contribute
+
+### **For Coders**
+
+- Submit PRs to `/src` (comment with voice notes welcome!)
+- Improve accessibility audits (`/accessibility.md`)
+
+### **For Allies**
+
+- **Testimonials**: Add to `/_testimonials/` as `.mp3` or `.txt`
+- **Resource Sharing**: Edit `/_data/gear-loans.csv`
+
+### **Barter Policy**
+
+```diff
++ Open to trades: vet bills, gear loans, studio time
+- No unpaid labor for funded orgs
 ```
-<link rel="canonical" href="https://glitch-hello-website.glitch.me/" />
-<meta name="description" content="A simple website, built with Glitch. Remix it to get your own."/>
-<meta name="robots" content="index,follow" />
-<meta property="og:title" content="Hello World!" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://glitch-hello-website.glitch.me/" />
-<meta property="og:description" content="A simple website, built with Glitch. Remix it to get your own."/>
-<meta property="og:image" content="https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2Fhello-website-social.png?v=1616712748147"/>
-<meta name="twitter:card" content="summary" />
-```
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+---
 
-## You built this with Glitch!
+## 📬 Contact
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+- **Professional Bookings**: [The Reframe](https://book.squareup.com/appointments/rcgubepj7x9c5u/location/B3DYKPFWZQJB8/services?buttonTextColor=ffffff&color=000000&locale=en&referrer=so)
+- **Crisis Support**: [Mutual Aid Donations](https://square.link/u/Ic4eWapA)
+- **Music**: [Bandcamp](https://asialakay.bandcamp.com)
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+---
+
+**License**: GPL-3.0 (free to remix, credit required)  
+**Footer**: _"The most ethical tech is built at the margins."_
